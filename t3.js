@@ -1,3 +1,7 @@
+var playerOne = "X";
+var playerTwo = "O";
+
+
 
 // Setup your Variables
 

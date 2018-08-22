@@ -24,3 +24,10 @@ td:hover {
     border-top: 2px solid black;
     border-bottom: 2px solid black;
 }
+
+#idRestartbutton
+{
+    position:relative;
+    top:50%;
+    left:85%;
+}
