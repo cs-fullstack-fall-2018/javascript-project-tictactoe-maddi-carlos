@@ -1,14 +1,27 @@
 /* Use borders to draw a box */
-
+body {
+    background-color: dodgerblue;
+}
+.jumbotron{
+    font-family: Chilanka ;
+    background-color: darkgray;
+    text-align: center;
+}
 table {
     margin: auto;
 }
 
 td {
+    font-family: Chilanka;
+    color: darkgray;
     width: 100px;
     height: 100px;
     text-align: center;
     font-size: 65px;
+}
+#idRestartbutton{
+    background-color: darkgray;
+    color: darkblue;
 }
 
 td:hover {

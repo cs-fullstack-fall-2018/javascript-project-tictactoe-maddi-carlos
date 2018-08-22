@@ -5,7 +5,9 @@ var score = {
     'O': 0
 };
 var gridvalue = 0;
-
+var player1Name= prompt("Enter Player1 Name");
+var player2Name = prompt("Enter Player2 Name");
+alert("May the Toe Be With You");
 
 // Setup your Variables
 
